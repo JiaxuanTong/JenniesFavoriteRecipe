@@ -1,0 +1,61 @@
+/*body{*/
+/*    background-color: darkseagreen;*/
+/*}*/
+h1{
+    font-size: 60px;
+}
+.border{
+    background-color: darkseagreen;
+    /*-webkit-background-clip: text;*/
+    /*-webkit-text-fill-color: transparent;*/
+    padding: 30px 100px;
+    text-align: center;
+    border-radius: 5px;
+}
+.line{
+    background-color: white;
+    padding: 5px 120px;
+}
+
+a.nav-link:link
+{
+    color: white;
+    text-decoration: none;
+}
+a.nav-link:visited
+{
+    color: white;
+    text-decoration: none;
+}
+a.nav-link:hover
+{
+    color: pink;
+    text-decoration: none;
+}
+.nav-link:active
+{
+    color: white;
+    text-decoration: none;
+}
+
+.cate-button{
+    background-color: darkseagreen; /* Green background */
+    /*border: 6px darkolivegreen; !* Green border *!*/
+    color: white; /* White text */
+    padding: 20px 50px; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+    float: left; /* Float the buttons side by side */
+
+
+}
+.cate-button:hover{
+    background: darkolivegreen;
+
+}
+
+/* Clear floats (clearfix hack) */
+.btn-group:after {
+    content: "";
+    clear: both;
+    display: table;
+}
