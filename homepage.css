@@ -11,13 +11,15 @@ h1{
     padding: 30px 100px;
     text-align: center;
     border-radius: 5px;
-    -webkit-text-fill-color: pink;
+    /*-webkit-text-fill-color: pink;*/
 }
 h5{
     font-size: 50px;
+    color: pink;
 }
 h6{
     font-size: 35px;
+    color: pink;
 }
 .line{
     background-color: white;
