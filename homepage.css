@@ -1,11 +1,11 @@
-/*body{*/
-/*    background-color: darkseagreen;*/
-/*}*/
+body{
+    background-image: url("background.jpg");
+}
 h1{
     font-size: 60px;
 }
 .border{
-    background-color: darkseagreen;
+    background-color: #65ad99; /*peach leaves green*/
     /*-webkit-background-clip: text;*/
     /*-webkit-text-fill-color: transparent;*/
     padding: 30px 100px;
@@ -15,11 +15,11 @@ h1{
 }
 h5{
     font-size: 50px;
-    color: pink;
+    color: rgb(255,229,220);
 }
 h6{
     font-size: 35px;
-    color: pink;
+    color: rgb(255,229,220);
 }
 .line{
     background-color: white;
@@ -38,7 +38,7 @@ a.nav-link:visited
 }
 a.nav-link:hover
 {
-    color: pink;
+    color: rgb(255,229,220);
     text-decoration: none;
 }
 .nav-link:active
@@ -48,7 +48,7 @@ a.nav-link:hover
 }
 
 .cate-button{
-    background-color: darkseagreen; /* Green background */
+    background-color: #65ad99; /* Green background */
     /*border: 6px darkolivegreen; !* Green border *!*/
     color: white; /* White text */
     padding: 20px 50px; /* Some padding */
@@ -58,11 +58,11 @@ a.nav-link:hover
 
 }
 .cate-button:hover{
-    background: darkolivegreen;
+    background: #3c6e56;
 
 }
 .cate-button:after{
-    background: darkolivegreen;
+    background: #3c6e56;
 
 }
 
@@ -74,10 +74,14 @@ a.nav-link:hover
 }
 
 .active-button{
-    background-color: darkolivegreen;
+    background-color: #3c6e56;
     /*border: 6px darkolivegreen; !* Green border *!*/
     color: white; /* White text */
     padding: 20px 50px; /* Some padding */
     cursor: pointer; /* Pointer/hand icon */
     float: left; /* Float the buttons side by side */
+}
+
+img:hover{
+    opacity: 0.8;
 }
