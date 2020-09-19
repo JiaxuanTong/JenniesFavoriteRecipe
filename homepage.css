@@ -4,15 +4,6 @@ body{
 h1{
     font-size: 60px;
 }
-.border{
-    background-color: #65ad99; /*peach leaves green*/
-    /*-webkit-background-clip: text;*/
-    /*-webkit-text-fill-color: transparent;*/
-    padding: 30px 100px;
-    text-align: center;
-    border-radius: 5px;
-    /*-webkit-text-fill-color: pink;*/
-}
 h5{
     font-size: 50px;
     color: rgb(255,229,220);
@@ -20,6 +11,30 @@ h5{
 h6{
     font-size: 35px;
     color: rgb(255,229,220);
+}
+.sub-title{
+    font-size: 27px;
+    padding: 10px;
+    color: rgb(255,229,220);
+}
+p{
+    font-size: 10px;
+    color: rgb(255,229,220);
+}
+.content{
+    font-size: 17px;
+    padding: 2px 200px;
+    color: rgb(255,229,220);
+    text-align: left;
+}
+.border{
+    background-color: #65ad99; /*peach leaves green*/
+    /*-webkit-background-clip: text;*/
+    /*-webkit-text-fill-color: transparent;*/
+    padding: 35px 100px;
+    text-align: center;
+    border-radius: 5px;
+    /*-webkit-text-fill-color: pink;*/
 }
 .line{
     background-color: white;
@@ -81,7 +96,36 @@ a.nav-link:hover
     cursor: pointer; /* Pointer/hand icon */
     float: left; /* Float the buttons side by side */
 }
-
+img{
+    /*padding: 20px;*/
+    padding: 0px 20px;
+}
 img:hover{
     opacity: 0.8;
 }
+
+.recipe-border{
+    background-color: #65ad99;
+    /*paading: auto 100px;*/
+    text-align: center;
+
+}
+table {
+    font-size: 17px;
+    -webkit-text-fill-color: rgb(255,229,220);
+    font-family: arial, sans-serif;
+    border-color: white;
+    border-style: dashed;
+    border-collapse: collapse;
+    margin-left:auto;
+    margin-right:auto
+}
+td, th {
+    text-align: left;
+    padding: 3px 60px;
+}
+tr:nth-child(even) {
+    -webkit-text-fill-color: #65ad99;
+    background-color: rgb(255,229,220);
+}
+
