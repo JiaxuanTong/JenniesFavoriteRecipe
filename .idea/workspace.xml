@@ -25,29 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b32b70a3-36c9-4a4b-b858-9e4eaf8c44e4" name="Default Changelist" comment="Version 1.0">
-      <change afterPath="$PROJECT_DIR$/confetti.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dance-magic-unicorn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/footer-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/confetti.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/confetti_home.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cookies.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cookies_home.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/frog.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/frog_home.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/rainb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/rainb_home.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cute-Cartoon-Girl-PNG-Photos.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cute-Cartoon-Girl-PNG-Picture-right.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cookies.html" beforeDir="false" afterPath="$PROJECT_DIR$/cookies.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desserts.html" beforeDir="false" afterPath="$PROJECT_DIR$/rainb.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drinks.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frieddishes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/homepage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/noodles.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +91,7 @@
       <workItem from="1600379144942" duration="18094000" />
       <workItem from="1600455657135" duration="59000" />
       <workItem from="1600489672883" duration="6679000" />
-      <workItem from="1600541700957" duration="15812000" />
+      <workItem from="1600541700957" duration="16117000" />
     </task>
     <task id="LOCAL-00001" summary="index.html added">
       <created>1600379362123</created>
@@ -171,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600496063738</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Version 1.0">
+      <created>1600557614392</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600557614393</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,9 +259,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="931" height="260" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1600545120629" />
-    <state x="364" y="267" key="Vcs.Push.Dialog.v2" timestamp="1600496074362">
+    <state x="364" y="267" key="Vcs.Push.Dialog.v2" timestamp="1600557667878">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="364" y="267" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600496074362" />
+    <state x="364" y="267" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600557667878" />
   </component>
 </project>
