@@ -24,9 +24,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b32b70a3-36c9-4a4b-b858-9e4eaf8c44e4" name="Default Changelist" comment="Version 1.0">
-      <change beforePath="$PROJECT_DIR$/cookies.html" beforeDir="false" afterPath="$PROJECT_DIR$/cookies.html" afterDir="false" />
-    </list>
+    <list default="true" id="b32b70a3-36c9-4a4b-b858-9e4eaf8c44e4" name="Default Changelist" comment="Version 1.0 + readme" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +89,7 @@
       <workItem from="1600379144942" duration="18094000" />
       <workItem from="1600455657135" duration="59000" />
       <workItem from="1600489672883" duration="6679000" />
-      <workItem from="1600541700957" duration="16117000" />
+      <workItem from="1600541700957" duration="16441000" />
     </task>
     <task id="LOCAL-00001" summary="index.html added">
       <created>1600379362123</created>
@@ -156,7 +154,28 @@
       <option name="project" value="LOCAL" />
       <updated>1600557614393</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Version 1.0">
+      <created>1600557926518</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600557926518</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Version 1.0">
+      <created>1600557937802</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600557937802</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Version 1.0 + readme">
+      <created>1600558147284</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1600558147284</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,7 +207,8 @@
     <MESSAGE value="changed the title text color" />
     <MESSAGE value="index page style confirm" />
     <MESSAGE value="Version 1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 1.0" />
+    <MESSAGE value="Version 1.0 + readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 1.0 + readme" />
   </component>
   <component name="WindowStateProjectService">
     <state x="645" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600402534339">
@@ -259,9 +279,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="931" height="260" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1600545120629" />
-    <state x="364" y="267" key="Vcs.Push.Dialog.v2" timestamp="1600557667878">
+    <state x="364" y="267" key="Vcs.Push.Dialog.v2" timestamp="1600558163849">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="364" y="267" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600557667878" />
+    <state x="364" y="267" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600558163849" />
   </component>
 </project>
