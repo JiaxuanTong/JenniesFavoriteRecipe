@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b32b70a3-36c9-4a4b-b858-9e4eaf8c44e4" name="Default Changelist" comment="index page style confirm" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hekrKg4CDCXpzLd2kKHdSJpktH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JenniesFavoriteRecipe/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b32b70a3-36c9-4a4b-b858-9e4eaf8c44e4" name="Default Changelist" comment="" />
+      <created>1600379143030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600379143030</updated>
+      <workItem from="1600379144942" duration="18094000" />
+      <workItem from="1600455657135" duration="59000" />
+      <workItem from="1600489672883" duration="6080000" />
+    </task>
+    <task id="LOCAL-00001" summary="index.html added">
+      <created>1600379362123</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600379362123</updated>
+    </task>
+    <task id="LOCAL-00002" summary="index.html hello added">
+      <created>1600379659116</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600379659116</updated>
+    </task>
+    <task id="LOCAL-00003" summary="title border and categories added">
+      <created>1600392761971</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600392761972</updated>
+    </task>
+    <task id="LOCAL-00004" summary="title border and categories added">
+      <created>1600394481137</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600394481137</updated>
+    </task>
+    <task id="LOCAL-00005" summary="structure has been done">
+      <created>1600406125597</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600406125597</updated>
+    </task>
+    <task id="LOCAL-00006" summary="changed the title text color">
+      <created>1600406977884</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600406977884</updated>
+    </task>
+    <task id="LOCAL-00007" summary="index page style confirm">
+      <created>1600495466408</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600495466408</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="index.html added" />
+    <MESSAGE value="index.html hello added" />
+    <MESSAGE value="title border and categories added" />
+    <MESSAGE value="structure has been done" />
+    <MESSAGE value="changed the title text color" />
+    <MESSAGE value="index page style confirm" />
+    <option name="LAST_COMMIT_MESSAGE" value="index page style confirm" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="645" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600402534339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="645" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1600402534339" />
+    <state width="1515" height="261" key="GridCell.Tab.0.bottom" timestamp="1600407590192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600407590192" />
+    <state width="1515" height="261" key="GridCell.Tab.0.center" timestamp="1600407590192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600407590192" />
+    <state width="1515" height="261" key="GridCell.Tab.0.left" timestamp="1600407590192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600407590192" />
+    <state width="1515" height="261" key="GridCell.Tab.0.right" timestamp="1600407590192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600407590192" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1600407590193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600407590193" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1600407590193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600407590193" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1600407590193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600407590193" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1600407590193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600407590193" />
+    <state width="1515" height="261" key="GridCell.Tab.2.bottom" timestamp="1600407590194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600407590194" />
+    <state width="1515" height="261" key="GridCell.Tab.2.center" timestamp="1600407590194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1600407590194" />
+    <state width="1515" height="261" key="GridCell.Tab.2.left" timestamp="1600407590193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1600407590193" />
+    <state width="1515" height="261" key="GridCell.Tab.2.right" timestamp="1600407590194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1600407590194" />
+    <state width="1515" height="261" key="GridCell.Tab.3.bottom" timestamp="1600407590194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600407590194" />
+    <state width="1515" height="261" key="GridCell.Tab.3.center" timestamp="1600407590194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1600407590194" />
+    <state width="1515" height="261" key="GridCell.Tab.3.left" timestamp="1600407590194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1600407590194" />
+    <state width="1515" height="261" key="GridCell.Tab.3.right" timestamp="1600407590194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1600407590194" />
+    <state x="364" y="267" key="Vcs.Push.Dialog.v2" timestamp="1600495880026">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="364" y="267" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600495880026" />
+  </component>
+</project>
