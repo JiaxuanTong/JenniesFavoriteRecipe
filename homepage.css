@@ -63,12 +63,11 @@ a.nav-link:hover
 }
 
 .cate-button{
-    background-color: #65ad99; /* Green background */
-    /*border: 6px darkolivegreen; !* Green border *!*/
-    color: white; /* White text */
-    padding: 20px 50px; /* Some padding */
-    cursor: pointer; /* Pointer/hand icon */
-    float: left; /* Float the buttons side by side */
+    background-color: #65ad99;
+    color: white;
+    padding: 20px 50px;
+    cursor: pointer;
+    float: left;
 
 
 }
@@ -90,11 +89,10 @@ a.nav-link:hover
 
 .active-button{
     background-color: #3c6e56;
-    /*border: 6px darkolivegreen; !* Green border *!*/
-    color: white; /* White text */
-    padding: 20px 50px; /* Some padding */
-    cursor: pointer; /* Pointer/hand icon */
-    float: left; /* Float the buttons side by side */
+    color: white;
+    padding: 20px 50px;
+    cursor: pointer;
+    float: left;
 }
 img{
     /*padding: 20px;*/
